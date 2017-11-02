@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll-a-ball-complete", "Roll-a-ball-complete.csproj", "{0142545C-3036-5025-E53A-4D27E9C2C575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll-a-ball-complete.Editor", "Roll-a-ball-complete.Editor.csproj", "{92FF7F37-BFB5-4511-2431-763D674DB3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0142545C-3036-5025-E53A-4D27E9C2C575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0142545C-3036-5025-E53A-4D27E9C2C575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0142545C-3036-5025-E53A-4D27E9C2C575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0142545C-3036-5025-E53A-4D27E9C2C575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FF7F37-BFB5-4511-2431-763D674DB3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FF7F37-BFB5-4511-2431-763D674DB3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FF7F37-BFB5-4511-2431-763D674DB3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FF7F37-BFB5-4511-2431-763D674DB3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
